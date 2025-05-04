@@ -1,0 +1,5 @@
+baseURL = "https://hashansl.github.io/blog/"
+languageCode = "en-us"
+title = "Hashan's Data Science Blog"
+theme = "lightbi-hugo"
+
