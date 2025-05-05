@@ -3,3 +3,51 @@ languageCode = "en-us"
 title = "Hashan's Data Science Blog"
 theme = "lightbi-hugo"
 
+[params]
+  dateFormat = "2006-01-02"
+  themeMode = "auto"  # dark/light toggle
+  description = "A blog by Hashan Fernando"
+  previewCardImagePlacement = "bottom"
+  showPostImage = false
+  mainSections = ["post"]
+  favicon = "/images/favicon.ico"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/post"
+    weight = 3
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags"
+    weight = 4
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = "monokai"
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
