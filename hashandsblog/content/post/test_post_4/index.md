@@ -7,6 +7,7 @@ categories = ["Research"]
 tags = ["TDA", "Bayesian"]
 toc = true  # Table of contents (requires config below)
 image = 'card-img.jpg'
+hideNav = 'true'
 
 +++
 

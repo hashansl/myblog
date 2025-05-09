@@ -4,7 +4,7 @@ title = "Hashan's Data Science Blog"
 theme = "lightbi-hugo"
 
 [params]
-  dateFormat = "2006-01-02"
+  dateFormat = "January 2, 2006"
   themeMode = "light"  # dark/light toggle
   description = "A blog by Hashan Fernando"
   previewCardImagePlacement = "bottom"
