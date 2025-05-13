@@ -5,7 +5,7 @@ theme = "lightbi-hugo"
 
 [params]
   dateFormat = "January 2, 2006"
-  themeMode = "light"  # dark/light toggle
+  themeMode = "auto"  # dark/light toggle
   description = "A blog by Hashan Fernando"
   previewCardImagePlacement = "bottom"
   showPostImage = false
