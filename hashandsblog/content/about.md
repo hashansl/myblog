@@ -4,7 +4,7 @@ layout: "single2"
 url: "/about/"
 ---
 
-# 👋 Hi, I'm Hashan
+# Hi, I'm Hashan
 
 I'm a PhD candidate in Data Science & Engineering at the University of Tennessee and a Research Assistant at Oak Ridge National Lab. My work focuses on applying **topological data analysis**, **Bayesian modeling**, and **AI** to real-world problems like the opioid epidemic.
 

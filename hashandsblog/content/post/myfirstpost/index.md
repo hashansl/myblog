@@ -29,4 +29,4 @@ From zero, with nothing but determination, I crossed oceans and continents, arri
 
 I’ve come a long way, yet I know this journey is far from over. There’s so much more ahead, challenges to embrace, lessons to learn, and dreams to fulfill. I started this blog because I want to share my story, my struggles, my triumphs, and my growth. Perhaps, along the way, my words can ignite a spark in you, just as others inspired me when I needed it most.
 
-I don’t know exactly where this journey will lead, but I’m thrilled to find out—and even more thrilled to share it with you.
+I don’t know exactly where this journey will lead, but I’m thrilled to find out,and even more thrilled to share it with you.
