@@ -7,7 +7,7 @@ categories = ["Research"]
 tags = ["Goal", "Meaning"]
 toc = false  # Table of contents (requires config below)
 image = 'card-img.jpg'
-hideNav = 'true'
+hideNav = true
 
 +++
 

@@ -7,7 +7,7 @@ categories = ["DSA"]
 tags = ["Algorithms", "DSA"]
 toc = true  # Table of contents (requires config below)
 image = 'card-img.jpg'
-hideNav = 'false'
+hideNav = false
 
 +++
 
@@ -94,6 +94,6 @@ It is also important to understand that recursion can lead to stack overflow if 
 
 ## Conclusion
 
-Silly thing I understood is code after the recursive call runs only after the function starts returning! Also all the stack functions will be executed in reverse order! The first function call will be the last one to return! This solved my confusion about recursion and made it much easier to understand.
+Silly thing I understood is, the code after the recursive call runs only after the function starts returning! Also all the stack functions will be executed in reverse order! The first function call will be the last one to return! This solved my confusion about recursion and made it much easier to understand.
 
 I hope this post helps you understand recursion better. It’s not as scary as it seems once you get the hang of it. Just remember to always define a base case, and you’ll be on your way to mastering this powerful technique.
