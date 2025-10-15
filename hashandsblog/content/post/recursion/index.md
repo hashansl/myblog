@@ -19,7 +19,7 @@ Eventually, I decided to face it head-on. And when I did, I felt kind of silly�
 
 ---
 
-## Where It Went Wrong
+## Where it went wrong
 
 The part that always tripped me up was understanding what happens after a function calls itself. I couldn’t wrap my head around the idea that the code *after* the recursive call still gets executed—*but only after* the function starts returning.
 
