@@ -1,5 +1,5 @@
 +++
-title = "Writing to Improve"
+title = "Writing Is Thinking: A Cognitive Approach to Learning"
 date = "2025-10-14"
 author = "Hashan Fernando"
 description = "Do hard things: I struggle to write a lot!"
@@ -39,8 +39,8 @@ To make things easy, I decide my topic or what I am going to write a day before!
     - Gopen exercise – take one idea and write it in three different sentence orders.
     - Transition practice – write 5 sentence pairs that connect ideas smoothly.
     
-
-## Core Writing Cycle
+---
+## Core writing cycle
 
 | Phase | Time  | Purpose |
 |-----------|-----------|-----------|
@@ -48,68 +48,65 @@ To make things easy, I decide my topic or what I am going to write a day before!
 | Morning (Writing phase)     | 4–6 AM    | Write a short, structured piece (400–700 words) turning that idea into a clear post. Focus on explaining, not summarizing.   |
 | Later (Polish & Publish)     | 10-15 minutes    | Edit tone for general readers; add a simple graphic or hook; post on LinkedIn or blog.    |
 
-## Capturing, writing.
+Why writing phase matters in learning? Writing helps us to recall what we have learned. People (including me) re-read documents/theories just to understand(memorize). But it is scientifically proven that re-reading is the worst learning technique, poor retention. Instead of re-reading, try to recall what you have learned!
+
+- Take few minutes off summarize what you have learned.
+- Sketch down a mind map(important concepts that you have learned).
+- Draw it in a white board; Explain it loudly!
+- Most importantly, write about it!
+
+This is where writing comes in handy. While reading one [blog](https://yewjin.substack.com/p/you-dont-really-know-it-until-you) post(I will try to find it), I saw this statement about writing: "You really don't know it, until you can explain it!". It hit home for me, I start to write about everything I learn!
+
+---
+## First draft system
+
+First thing first, don't worry about grammar nor perfectionism. Just read about the theories or anything that you want to learn and sketch down and summarize. In the next stage, don't read again, just keep a blank mind and write about whatever you learned.
 
 1. Capture.
     - The Goal: Capture, don’t compose.
-    - The capture system (Simple & flexible).
+    - Maybe create a specific folder in mac, and document on notability.
     - Summarize on notability.
 
 2. Write the first draft.
+    - Goal: Get your brain’s raw material onto the page before your inner editor wakes up.
+    - Aim for Completion, Not Perfection
     - Write to discover what you think. Edit to discover how to say it clearly.
     - Your first draft is a thinking draft — not a finished product.
     - What to focus on?
         - Don’t worry about grammar, spelling, or perfect word choice yet.
         - Focus on ideas — what you want to say and in what order.
         - If a sentence feels rough, keep going. You’ll fix it later.
-        - Use placeholders like [add citation] or [find example later].        
-    - Goal: Get your brain’s raw material onto the page before your inner editor wakes up.
-    - Momentum beats precision at this stage.
-    - Aim for Completion, Not Perfection
+        - Use placeholders like [add citation] or [find example later].            
     - Use Prompts to Stay Focused
         - If you get stuck, ask yourself:
             - What do I really want to say here?
             - What question am I answering?
             - Why does this matter?
-
+---
 ## Post-writing editing system
 
-1. Step 1: Clean grammar and mechanics
-    - Goal: make the writing grammatically sound and consistent before deeper edits.
-    - Checklist:
-        - Correct spelling, punctuation, and capitalization.
-        - Fix subject–verb agreement (“data are,” not “data is”).
-        - Use active voice where possible (“We analyze…” instead of “It is analyzed…”).
-        - Check article usage (“the opioid epidemic,” not “opioid epidemic” when specific).
-        - Ensure consistent tense (usually past for methods, present for conclusions).
-        - Watch plural vs. singular terms (e.g., “these results show…”).
-    - Tools:
-        - Grammarly or LanguageTool for first sweep.
-        - HemingwayApp for readability score.
+1. Step 1: Read loud (You will understand, if something feels off)
+2. Step 2: Take a paragraph; Read and check the flow and structure.
+    -   Read the topic sentence and final sentence of a paragraph. If the topic sentence and final sentence of each paragraph make sense when read together, your structure works.
+3. Step 3: Read sentence by sentence and make sure these two things:
+    - (first) Make sure "old before new", reader familiar old information first, then the new content. 
+    - (second) Most of the time use active voice.
+    - Reminder: If you have to use passive to keep the "old before new", go for it. Also, the stress position of a sentence should be in the end.
+4. Step 4: Now read the paragraph again(the meaning).
+    - Does it convey what you want to say?
+    - If not add or remove sentences.
+    - Go to step 1.
+5. Step 5: Check the grammar
+    - Correct active passive voice.
+    - Correct time.
+    - Article use.
+    - Avoid verb nouns.
+    - Use tools: Grammarly
 
-2. Step 2: Redefine flow & transition
-    - Goal: ensure sentences connect logically and rhythmically.
-    - Checklist:
-        - Does each sentence start from what the reader already knows (topic) and end with new info (stress)?
-        - Add transition words: furthermore, however, in contrast, consequently, notably.
-        - Merge short choppy sentences; break overly long ones.
-        - Read aloud — you’ll hear awkward rhythms or missing connectors.
-
-3. Step 3: Check structure and logic
-    - Each paragraph begins with a clear topic sentence (the “point”).
-    - Supporting sentences build evidence or explanation.
-    - The final sentence should land the “so what” (the stress position).
-    - Each paragraph should serve your purpose: background, method, insight, or takeaway.
-    - Remove or move sentences that break logical flow or repeat ideas.
-    - Tip: If the topic sentence and final sentence of each paragraph make sense when read together, your structure works.
-
-4. Step 4: Deep meaning
-    - Goal: ensure your writing says exactly what you mean — nothing vague, nothing extra.
-    - Is your main idea crystal clear in the first few sentences?
-    - Are all technical terms defined at least once in plain words?
-    - Are your claims supported with evidence or reasoning?
-    - Could a non-expert follow your argument?
-    - Delete filler words (very, really, in order to, due to the fact that).
-    - Rephrase dense phrases into strong, concrete verbs.
-        - Bad: There is a need for improvement.
-        - Better: This method improves performance.
+Additional checks:
+- Goal: ensure your writing says exactly what you mean — nothing vague, nothing extra.
+- Is your main idea crystal clear in the first few sentences?
+- Are all technical terms defined at least once in plain words?
+- Are your claims supported with evidence or reasoning?
+- Could a non-expert follow your argument?
+- Delete filler words (very, really, in order to, due to the fact that).
