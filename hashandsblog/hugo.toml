@@ -11,6 +11,7 @@ theme = "lightbi-hugo"
   showPostImage = false
   mainSections = ["post"]
   favicon = "/images/favicon.ico"
+  math = true
 
 [menu]
   [[menu.main]]
